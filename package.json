@@ -1,18 +1,18 @@
 {
-  "name": "@uniswap/v2-core",
-  "description": "🎛 Core contracts for the UniswapV2 protocol",
-  "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "name": "@cndllabs/v2-core",
+  "description": "🎛 Core contracts for the CarthageV2 protocol",
+  "version": "1.0.2",
+  "homepage": "https://dex.cndlchain.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/carthageprotocol/v2-core"
   },
   "keywords": [
-    "uniswap",
-    "ethereum",
+    "carthage",
+    "candle",
     "v2",
     "core",
-    "uniswap-v2"
+    "carthage-v2"
   ],
   "files": [
     "contracts",
